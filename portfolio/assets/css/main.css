@@ -1657,11 +1657,14 @@ input, select, textarea {
 	}
 
 		#footer .copyright {
-			letter-spacing: 0.2rem;
-			font-size: 0.6rem;
-			opacity: 0.75;
+			letter-spacing: 0.1rem;
+			font-size: 1.6rem;
+			font-weight: 1000;
+			color: rgb(68, 2, 16);
+			/* opacity: 0.75; */
 			margin-bottom: 0;
 			text-transform: uppercase;
+			/* background-color: rgba(43, 40, 40, 0.175); */
 		}
 
 		body.is-article-visible #footer {
